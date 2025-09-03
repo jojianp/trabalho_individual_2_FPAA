@@ -246,4 +246,3 @@ Ambas as análises - por contagem de operações e pelo Teorema Mestre - confirm
 ## Referências
 
 1. **CARNEIRO ARAMUNI, J. P.** AULA 01_Análise de complexidade de algoritmos.pdf. Material de aula. Disponível em: `https://github.com/joaopauloaramuni/fundamentos-de-projeto-e-analise-de-algoritmos/tree/main/PDF`
-2. **CORMEN, T. H. et al.** *Introduction to Algorithms*. 3rd ed. MIT Press, 2009.
